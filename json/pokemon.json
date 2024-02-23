@@ -1,0 +1,123 @@
+[
+{
+"nom": "Salameche",
+"type": "Feu",
+"pv": 50,
+"attaque": 60,
+"defense": 50,
+"lvl": 5,
+"xp": 0,
+"xp_necessaire": 20,
+"image": "images/pokemon/salameche.png"
+},
+{
+"nom": "Reptincel",
+"type": "Feu",
+"pv": 80,
+"attaque": 75,
+"defense": 65,
+"lvl": 5,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/reptincel.png"
+},
+{
+"nom": "Carapuce",
+"type": "Eau",
+"pv": 50,
+"attaque": 50,
+"defense": 65,
+"lvl": 5,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/carapuce.png"
+},
+{
+"nom": "Carabaffe",
+"type": "Eau",
+"pv": 65,
+"attaque": 65,
+"defense": 80,
+"lvl": 7,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/carabaffe.png"
+},
+{
+"nom": "Bulbizarre",
+"type": "Plante",
+"pv": 45,
+"attaque": 49,
+"defense": 49,
+"lvl": 5,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/bulbizarre.png"
+},
+{
+"nom": "Herbizarre",
+"type": "Plante",
+"pv": 60,
+"attaque": 62,
+"defense": 63,
+"lvl": 7,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/herbizarre.png"
+},
+{
+"nom": "Pikachu",
+"type": "Electrik",
+"pv": 35,
+"attaque": 55,
+"defense": 30,
+"lvl": 5,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/pikachu.png"
+},
+{
+"nom": "Raichu",
+"type": "Electrik",
+"pv": 60,
+"attaque": 90,
+"defense": 55,
+"lvl": 100,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/raichu.png"
+},
+{
+"nom": "Evoli",
+"type": "Normal",
+"pv": 55,
+"attaque": 55,
+"defense": 50,
+"lvl": 5,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/evoli.png"
+},
+{
+"nom": "Phyllali",
+"type": "Plante",
+"pv": 65,
+"attaque": 60,
+"defense": 110,
+"lvl": 7,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/phyllali.png"
+},
+{
+"nom": "Rattata",
+"type": "Normal",
+"pv": 50,
+"lvl": 6,
+"attaque": 55,
+"defense": 30,
+"xp": 0,
+"xp_necessaire": 50,
+"image": "images/pokemon/Rattata.png"
+}
+]

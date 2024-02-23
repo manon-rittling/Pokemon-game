@@ -1,0 +1,178 @@
+[
+  {
+    "numero": "1",
+    "nom": "Salameche",
+    "type": "Feu",
+    "defense": "50",
+    "puissance attaque": "60",
+    "point de vie": "50",
+    "image": "images/pokemon/salameche.png",
+    "cri": "musique/salameche.ogg",
+    "visible": true
+  },
+  {
+    "numero": "2",
+    "nom": "Reptincel",
+    "type": "Feu",
+    "defense": "65",
+    "puissance attaque": "75",
+    "point de vie": "80",
+    "cri": "musique/reptincel.ogg",
+    "image": "images/pokemon/reptincel.png",
+    "visible": true
+  },
+  {
+    "numero": "3",
+    "nom": "Carapuce",
+    "type": "Eau",
+    "defense": "65",
+    "puissance attaque": "50",
+    "point de vie": "50",
+    "image": "images/pokemon/carapuce.png",
+    "cri": "musique/carapuce.mp3",
+    "visible": false
+  },
+  {
+    "numero": "4",
+    "nom": "Carabaffe",
+    "type": "Eau",
+    "defense": "80",
+    "puissance attaque": "65",
+    "point de vie": "65",
+    "cri": "musique/carabaffe.ogg",
+    "image": "images/pokemon/carabaffe.png",
+    "visible": true
+  },
+  {
+    "numero": "5",
+    "nom": "Bulbizarre",
+    "type": "Plante",
+    "defense": "49",
+    "puissance attaque": "49",
+    "point de vie": "45",
+    "image": "images/pokemon/bulbizarre.png",
+    "cri": "musique/bulbizarre.mp3",
+    "visible": true
+  },
+  {
+    "numero": "6",
+    "nom": "Herbizarre",
+    "type": "Plante",
+    "defense": "63",
+    "puissance attaque": "62",
+    "point de vie": "60",
+    "cri": "musique/herbizarre.mp3",
+    "image": "images/pokemon/herbizarre.png",
+    "visible": true
+  },
+  {
+    "numero": "7",
+    "nom": "Pikachu",
+    "type": "Electrique",
+    "defense": "30",
+    "puissance attaque": "55",
+    "point de vie": "35",
+    "image": "images/pokemon/pikachu.png",
+    "cri": "musique/pikachu.mp3",
+    "visible": true
+  },
+  {
+    "numero": "8",
+    "nom": "Raichu",
+    "type": "Electrique",
+    "defense": "55",
+    "puissance attaque": "90",
+    "point de vie": "60",
+    "cri": "musique/raichu.ogg",
+    "image": "images/pokemon/raichu.png",
+    "visible": true
+  },
+  {
+    "numero": "9",
+    "nom": "Evoli",
+    "type": "Normal",
+    "defense": "50",
+    "puissance attaque": "55",
+    "point de vie": "55",
+    "image": "images/pokemon/evoli.png",
+    "cri": "musique/evoli.ogg",
+    "visible": true
+  },
+  {
+    "numero": "10",
+    "nom": "Phyllali",
+    "type": "Eau",
+    "defense": "110",
+    "puissance attaque": "60",
+    "point de vie": "65",
+    "image": "images/pokemon/phyllali.png",
+    "cri": "musique/phyllali.mp3",
+    "visible": false
+  },
+  {
+    "numero": "12",
+    "nom": "Roucool",
+    "type": "Vol",
+    "defense": "25",
+    "puissance attaque": "60",
+    "point de vie": "50",
+    "cri": "musique/roucoul.mp3",
+    "image": "images/pokemon/roucoul.png",
+    "visible": true
+  },
+  {
+    "numero": "11",
+    "nom": "Rattata",
+    "type": "Normal",
+    "defense": "30",
+    "puissance attaque": "55",
+    "point de vie": "50",
+    "image": "images/pokemon/rattata.png",
+    "cri": "musique/rattata.mp3",
+    "visible": false
+  },
+  {
+    "numero": "13",
+    "nom": "Osselait",
+    "type": "Sol",
+    "defense": "50",
+    "puissance attaque": "45",
+    "point de vie": "50",
+    "image": "images/pokemon/osselait.png",
+    "cri": "musique/osselait.mp3",
+    "visible": false
+  },
+  {
+    "numero": "14",
+    "nom": "Ossatueur",
+    "type": "Sol",
+    "defense": "80",
+    "puissance attaque": "20",
+    "point de vie": "60",
+    "cri": "musique/ossatueur.mp3",
+    "image": "images/pokemon/ossatueur.png",
+    "visible": false
+  },
+  {
+    "numero": "15",
+    "nom": "Rattatac",
+    "type": "Normal",
+    "defense": "90",
+    "puissance attaque": "20",
+    "point de vie": "60",
+    "cri": "musique/rattatac.mp3",
+    "image": "images/pokemon/rattatac.png",
+    "visible": false
+  },
+  {
+    "numero": "16",
+    "nom": "Roucoups",
+    "type": "Vol",
+    "defense": "70",
+    "puissance attaque": "40",
+    "point de vie": "65",
+    "cri": "musique/roucoups.mp3",
+    "image": "images/pokemon/roucoups.png",
+    "visible": false
+  }
+]
